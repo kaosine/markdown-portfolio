@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Anime
+  * Ghibli
+  * Kyoani
+* Video Games
+  * Typically anime related
+  * mmos
+  * indie Games
