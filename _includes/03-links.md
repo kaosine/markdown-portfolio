@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[My Profile] (https://github.com/darsparx/) <!-- this is how to add links, use brackets for the name, and parenthesis around the link -->
